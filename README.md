@@ -1,4 +1,4 @@
-# Hi, I'm Venkata Ramyasri Mullamuri 👋  
+# Hi, I'm Ramya Mullamuri 👋  
 
 👩‍💻 I’m interested in data science, machine learning, and cloud technologies like AWS and Azure.<br>  
 📊 I’m currently learning advanced statistical methods, generative AI, and scaling data infrastructure in the cloud.<br>  
